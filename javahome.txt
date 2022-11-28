@@ -2,4 +2,3 @@ git is a fast version control system
 git is a easy tool
 git is light weighted
 git is widely used tool
-git is very tough
